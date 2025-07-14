@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice@company.com",
+    "position": "Software Engineer"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob@company.com",
+    "position": "UI/UX Designer"
+  },
+  {
+    "name": "Carol Williams",
+    "email": "carol@company.com",
+    "position": "HR Manager"
+  }
+]

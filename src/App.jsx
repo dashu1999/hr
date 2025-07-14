@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Login from './components/Auth/Login';
-import Signup from './components/Auth/Signup';
+import Login from './components/auth/Login';
+import Signup from './components/auth/Signup';
 import HRDashboard from './components/dashboard/HRDashboard';
 import EmployeeDashboard from './components/dashboard/EmployeeDashboard';
 import Navbar from './components/shared/Navbar';
